@@ -219,10 +219,16 @@
           <mxGeometry x="641.75" y="845" width="123.87" height="30" as="geometry" />
         </mxCell>
         <mxCell id="6h70fP6vyGC8MMRDD_9y-7" value="Google Cloud IAM" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="369.76" y="330.00000000000006" width="60" height="30" as="geometry" />
+          <mxGeometry x="645.87" y="510.00000000000006" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6h70fP6vyGC8MMRDD_9y-20" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="6h70fP6vyGC8MMRDD_9y-15" target="DaJ65z1MKH0cVFpXB1se-75">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6h70fP6vyGC8MMRDD_9y-21" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="6h70fP6vyGC8MMRDD_9y-15" target="DaJ65z1MKH0cVFpXB1se-74">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6h70fP6vyGC8MMRDD_9y-15" value="" style="aspect=fixed;sketch=0;html=1;dashed=0;whitespace=wrap;verticalLabelPosition=bottom;verticalAlign=top;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon2;prIcon=secret" vertex="1" parent="1">
-          <mxGeometry x="377.76" y="360" width="40.63" height="39" as="geometry" />
+          <mxGeometry x="660" y="480.7" width="30.52" height="29.3" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
